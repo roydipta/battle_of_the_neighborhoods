@@ -1,0 +1,51 @@
+,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Bronx,Co-op City,0,0,0.0,0.0,0.0
+1,Bronx,Eastchester,4dabc3dc93a04642f09ccabd,Xing Lung Chinese Restaurant,6.0,6.7,0.0
+2,Bronx,Norwood,0,0,0.0,0.0,0.0
+3,Bronx,Pelham Parkway,4b9d6b45f964a52078ab36e3,Mr. Q's Chinese Restaurant,9.0,7.6,10.0
+4,Bronx,Bedford Park,4e4d0387bd413c4cc66dfd72,Hung Hing Chinese Restaurant,5.0,6.3,2.0
+5,Bronx,Bedford Park,0,0,0.0,0.0,0.0
+6,Bronx,Bedford Park,0,0,0.0,0.0,0.0
+7,Bronx,Fordham,0,0,0.0,0.0,0.0
+8,Bronx,East Tremont,0,0,0.0,0.0,0.0
+9,Bronx,West Farms,0,0,0.0,0.0,0.0
+10,Bronx,West Farms,0,0,0.0,0.0,0.0
+11,Bronx,High  Bridge,0,0,0.0,0.0,0.0
+12,Bronx,Mott Haven,0,0,0.0,0.0,0.0
+13,Bronx,Morrisania,0,0,0.0,0.0,0.0
+14,Bronx,Soundview,0,0,0.0,0.0,0.0
+15,Bronx,Soundview,0,0,0.0,0.0,0.0
+16,Bronx,Parkchester,4b89b62df964a520ff4c32e3,Sabor Latino Seafood Restaurant,5.0,7.0,8.0
+17,Bronx,Parkchester,0,0,0.0,0.0,0.0
+18,Bronx,Van Nest,0,0,0.0,0.0,0.0
+19,Bronx,North Riverdale,4ca4fda4d971b1f77da5f2e0,Golden Phoenix Chinese Restaurant,4.0,5.7,1.0
+20,Bronx,Pelham Bay,0,0,0.0,0.0,0.0
+21,Bronx,Concourse,4d9a695ee5fd6ea8e3096df5,Lucky House Chinese Restaurant,5.0,7.6,2.0
+22,Brooklyn,Bay Ridge,5553702c498ecb85f99d8f37,XIN,6.0,7.3,4.0
+23,Brooklyn,Bensonhurst,0,0,0.0,0.0,0.0
+24,Brooklyn,Bensonhurst,0,0,0.0,0.0,0.0
+25,Brooklyn,Bensonhurst,0,0,0.0,0.0,0.0
+26,Brooklyn,Sunset Park,4d7171341c01b60ccebe14c7,Nueva Victoria Restaurant,2.0,6.1,5.0
+27,Brooklyn,Greenpoint,4abd867df964a520d78a20e3,Shang Hai Lee,10.0,6.4,13.0
+28,Brooklyn,Manhattan Terrace,0,0,0.0,0.0,0.0
+29,Brooklyn,Crown Heights,0,0,0.0,0.0,0.0
+30,Brooklyn,East Flatbush,0,0,0.0,0.0,0.0
+31,Brooklyn,Windsor Terrace,54e39b14498e9c646b42958e,East Wind Snack Shop,142.0,9.0,50.0
+32,Brooklyn,Windsor Terrace,4c06e2470e0a2d7fdf8aec0c,#1 Garden Chinese Food,4.0,5.9,4.0
+33,Brooklyn,Bushwick,4ba02bb5f964a520485f37e3,Happy Garden,3.0,5.5,4.0
+34,Brooklyn,Brooklyn Heights,4a9ac078f964a5207c3220e3,Fortune House,36.0,6.4,25.0
+35,Brooklyn,Brooklyn Heights,4a986a9cf964a520e82b20e3,Great Wall Chinese Food,4.0,5.7,9.0
+36,Brooklyn,Carroll Gardens,4b09dc38f964a520cf1e23e3,Ting Hua,5.0,5.5,4.0
+37,Brooklyn,Gowanus,4c60a7cede6920a15f9d9664,Michael and Ping's,30.0,6.5,27.0
+38,Brooklyn,Park Slope,49bb541ff964a520e3531fe3,Hunan Delight,73.0,7.2,30.0
+39,Brooklyn,East New York,0,0,0.0,0.0,0.0
+40,Brooklyn,East New York,0,0,0.0,0.0,0.0
+41,Brooklyn,Starrett City,0,0,0.0,0.0,0.0
+42,Brooklyn,Marine Park,0,0,0.0,0.0,0.0
+43,Brooklyn,Clinton Hill,4a71ff01f964a52016da1fe3,Kum Kau,109.0,7.9,77.0
+44,Brooklyn,Downtown,59da9590e1f0aa52976b8f35,Han Dynasty,162.0,8.6,32.0
+45,Brooklyn,Downtown,5db3649a8d15ba00089b4e9b,Xi'an Famous Foods,9.0,8.8,3.0
+46,Brooklyn,Downtown,585d72449f25836f2b2b7a1b,Xifu Food,28.0,8.1,13.0
+47,Brooklyn,Boerum Hill,585d72449f25836f2b2b7a1b,Xifu Food,28.0,8.1,13.0
+48,Brooklyn,Ocean Hill,0,0,0.0,0.0,0.0
+49,Brooklyn,North Side,58df00318cfe546addb99246,Birds of a Feather,352.0,9.0,75.0
