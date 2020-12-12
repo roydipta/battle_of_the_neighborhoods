@@ -1,4 +1,4 @@
-# battle_of_the_neighborhoods
+# battle_of_the_neighborhoods (Coursera capstone project)
 Where would be the best place to open a chinese restaurant in NY!
 
 
